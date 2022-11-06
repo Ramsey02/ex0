@@ -1,5 +1,7 @@
 
 #include <stdio.h>
+#include <stdbool>
+
 #define two 2
 #define NotInterger -1
 // check crl+v 
