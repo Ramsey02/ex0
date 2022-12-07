@@ -8,7 +8,7 @@
 
 
 int IsPowerOfTwo (int num);
-
+FF
 int main()
 {
     int size=0;
